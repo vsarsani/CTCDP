@@ -1,9 +1,9 @@
 
-# DTM3M: Distributed MultiTask MultiOmics Model
+# CTCDP: Cross-tissue calibration and disease prediction
 
 ## Introduction
 
-This is a project focused on building a distributed multitask multiomics model.
+Under Construction 
 
 ## Installation
 
